@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ 
+    
+}
+
+
+.container{
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+form{
+    max-width: 900px;
+    width: 100%;
+}
+
+.container button{
+    margin-top: 10px;
+}
